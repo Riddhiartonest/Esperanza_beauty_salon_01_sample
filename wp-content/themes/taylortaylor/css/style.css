@@ -441,7 +441,8 @@ body {
 
 ::selection {
   background: #eeeeee;
-  color: #fff;
+  /* color: #fff; */
+  color: #C64586;
 }
 
 ::-moz-selection {
@@ -842,6 +843,7 @@ a {
 
 a[href="#"] {
   outline: 0;
+  
 }
 
 a:hover {
@@ -2666,7 +2668,7 @@ body.no-top-padding {
 #footer .menu-col .footer-menu li {
   font-size: 17px;
   margin-bottom: 18px;
-  line-height: 1em;
+  line-height: 30px;
 }
 
 @media only screen and (max-width: 992px) {
